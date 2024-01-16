@@ -53,6 +53,3 @@ header .navbar a{
     color:var(--light-color);
 }
 
-head .icons #bar{
-    display: none;
-}
